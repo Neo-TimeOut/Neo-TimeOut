@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://4.bp.blogspot.com/-X3xB_KkNfho/UcrrAujZarI/AAAAAAAAJc4/_FU0CL-A7QY/s1600/fatec-sorocaba.jpg" alt="Fatec Sorocaba" width="400"/>
-</p>
-
 # 👋 Olá! Eu sou o Renan
 
 Sou estudante de tecnologia e apaixonado por redes, segurança e desenvolvimento.

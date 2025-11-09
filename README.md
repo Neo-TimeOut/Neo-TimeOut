@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou o Renan
 
-Sou estudante de tecnologia e apaixonado por redes, segurança e desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Sorocaba.  
+Tenho grande interesse em **redes, segurança da informação** e **desenvolvimento web e mobile**.  
+Gosto de aprender na prática, criar projetos e explorar novas tecnologias que me desafiem a pensar diferente.
 
 ---
 
@@ -9,7 +11,7 @@ Sou estudante de tecnologia e apaixonado por redes, segurança e desenvolvimento
 
 ---
 
-## 🎓 Outras Certificações
+## 🏅 Outras Certificações e Eventos
 
 - [32ª SETEC / FATEC — Minicurso HTML e CSS](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_MiniCursoSetecHTML.pdf)
 - [32ª SETEC / FATEC — Participação no Evento](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_32SetecFatec.pdf)
@@ -30,4 +32,4 @@ Sou estudante de tecnologia e apaixonado por redes, segurança e desenvolvimento
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/renan-ara%C3%BAjo-67a506258/)
-- ✉️ Email: renan.araujo8@fatec.sp.gov.br
+- ✉️ **Email:** renan.araujo8@fatec.sp.gov.br ou rerparaujo@gmail.com

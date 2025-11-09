@@ -3,7 +3,9 @@
 Sou estudante de tecnologia e apaixonado por redes, segurança e desenvolvimento.
 
 ## 🎓 Certificações Cisco
-[![Cisco HTML Essentials](https://www.credly.com/badges/19d6569c-fcc9-42f7-afc8-06d71b4a90be/public_url)]()
+[![Cisco HTML Essentials](https://images.credly.com/size/110x110/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/19d6569c-fcc9-42f7-afc8-06d71b4a90be/public_url)
+
+
 
 ## 💻 Tecnologias que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

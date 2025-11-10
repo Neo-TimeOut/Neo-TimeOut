@@ -15,6 +15,7 @@ Gosto de aprender na prática, criar projetos e explorar novas tecnologias que m
 
 - [32ª SETEC / FATEC — Minicurso HTML e CSS](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_MiniCursoSetecHTML.pdf)
 - [32ª SETEC / FATEC — Participação no Evento](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_32SetecFatec.pdf)
+- [ESCOLA DE INOVADORES 2025-2](https://github.com/Neo-TimeOut/Certificados/blob/main/CERTIFICADO_EscolaDeInovadores-_2025-2.pdf)
 
 ---
 

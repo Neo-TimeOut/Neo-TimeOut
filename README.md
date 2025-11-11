@@ -6,9 +6,9 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 
 ---
 
-## 🎓 Certificações Cisco
+## 🎓 Certificações Cisco - Badges
 [![Cisco HTML Essentials](https://images.credly.com/size/110x110/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/19d6569c-fcc9-42f7-afc8-06d71b4a90be/public_url)
-
+[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/bed91092-f864-4c87-bd66-4ea035962218/public_url)
 ---
 
 ## 🏅 Outras Certificações e Eventos

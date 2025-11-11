@@ -9,6 +9,7 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 ## 🎓 MInhas Certificações Cisco - Badges
 [![Cisco HTML Essentials](https://images.credly.com/size/110x110/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/19d6569c-fcc9-42f7-afc8-06d71b4a90be/public_url)
 [![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/bed91092-f864-4c87-bd66-4ea035962218/public_url)
+[![Cisco Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/df882b41-7fe2-44f9-9c2b-502077458715/public_url)
 
 
 ---
@@ -20,7 +21,7 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 - [ESCOLA DE INOVADORES 2025-2](https://github.com/Neo-TimeOut/Certificados/blob/main/CERTIFICADO_EscolaDeInovadores-_2025-2.pdf)
 - [Cisco HTML Essentials](https://github.com/Neo-TimeOut/Certificados/blob/main/HTML_Essentials_certificate_rerparaujo-gmail-com_402176e0-f9cf-4300-ab04-060a7a693143.pdf)
 - [Cisco Introduction to Cybersecurity](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Cybersecurity_certificate_rerparaujo-gmail-com_6549066a-a713-47ca-b407-99ca4d938838.pdf)
-
+- [Cisco Introduction to IoT](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_IoT_certificate_rerparaujo-gmail-com_4758c896-4473-4af7-91e2-42717d4ad299.pdf)
 
 
 ---

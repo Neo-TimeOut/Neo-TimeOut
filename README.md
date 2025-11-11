@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Renan
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Sorocaba.  
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Sorocaba.  
 Tenho grande interesse em **redes, segurança da informação** e **desenvolvimento web / mobile**.  
 Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com as coisas que gosto.
 

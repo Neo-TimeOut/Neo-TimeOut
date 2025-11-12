@@ -11,6 +11,7 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 [![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/bed91092-f864-4c87-bd66-4ea035962218/public_url)
 [![Cisco Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/df882b41-7fe2-44f9-9c2b-502077458715/public_url)
 [![Cisco Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/bfa16cde-43f6-425d-9006-bce5acaa1d7f/public_url)
+[![Cisco Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/0b9ec263-bdda-4466-a61d-73756cb2d3ab/public_url)
 
 
 ---

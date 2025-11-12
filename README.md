@@ -25,6 +25,9 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 - [Cisco Introduction to Cybersecurity](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Cybersecurity_certificate_rerparaujo-gmail-com_6549066a-a713-47ca-b407-99ca4d938838.pdf)
 - [Cisco Introduction to IoT](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_IoT_certificate_rerparaujo-gmail-com_4758c896-4473-4af7-91e2-42717d4ad299.pdf)
 - [Cisco Computer Hardware Basics](https://github.com/Neo-TimeOut/Certificados/blob/main/Computer_Hardware_Basics_certificate_rerparaujo-gmail-com_40bfe5ca-28e4-4417-beeb-e7f4b126f108.pdf)
+- [Cisco Introduction to Data Science](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Data_Science_certificate_rerparaujo-gmail-com_c10163ca-4b07-4812-b72b-b502a783d961.pdf)
+
+
 
 
 

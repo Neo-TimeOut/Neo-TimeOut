@@ -12,6 +12,9 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 [![Cisco Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/df882b41-7fe2-44f9-9c2b-502077458715/public_url)
 [![Cisco Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/bfa16cde-43f6-425d-9006-bce5acaa1d7f/public_url)
 [![Cisco Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/0b9ec263-bdda-4466-a61d-73756cb2d3ab/public_url)
+[![Cisco Introduction to Modern Ai](https://images.credly.com/size/110x110/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/ad85bf43-c097-4345-b97a-b8ac0c2971bf/public_url)
+
+
 
 
 ---
@@ -26,6 +29,9 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 - [Cisco Introduction to IoT](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_IoT_certificate_rerparaujo-gmail-com_4758c896-4473-4af7-91e2-42717d4ad299.pdf)
 - [Cisco Computer Hardware Basics](https://github.com/Neo-TimeOut/Certificados/blob/main/Computer_Hardware_Basics_certificate_rerparaujo-gmail-com_40bfe5ca-28e4-4417-beeb-e7f4b126f108.pdf)
 - [Cisco Introduction to Data Science](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Data_Science_certificate_rerparaujo-gmail-com_c10163ca-4b07-4812-b72b-b502a783d961.pdf)
+- [Cisco Introduction to Modern Ai](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Modern_AI_certificate_rerparaujo-gmail-com_6f71aa9d-d082-449b-a550-c4f335f6075e.pdf)
+
+
 
 
 

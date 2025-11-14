@@ -22,6 +22,7 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 ## 🏅 Certificações e Eventos
 
 - [32ª SETEC / FATEC — Minicurso HTML e CSS](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_MiniCursoSetecHTML.pdf)
+- [32ª SETEC / FATEC — Minicurso Git - Do 0 ao 1](https://github.com/Neo-TimeOut/Certificados/blob/main/Certificado_Git_RenanAraujo.pdf)
 - [32ª SETEC / FATEC — Participação no Evento](https://github.com/Neo-TimeOut/PWeb/blob/main/Certificados/Certificado_32SetecFatec.pdf)
 - [ESCOLA DE INOVADORES 2025-2](https://github.com/Neo-TimeOut/Certificados/blob/main/CERTIFICADO_EscolaDeInovadores-_2025-2.pdf)
 - [Cisco HTML Essentials](https://github.com/Neo-TimeOut/Certificados/blob/main/HTML_Essentials_certificate_rerparaujo-gmail-com_402176e0-f9cf-4300-ab04-060a7a693143.pdf)
@@ -31,9 +32,6 @@ Gosto de aprender na prática, criar projetos para o dia a dia e me envolver com
 - [Cisco Introduction to Data Science](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Data_Science_certificate_rerparaujo-gmail-com_c10163ca-4b07-4812-b72b-b502a783d961.pdf)
 - [Cisco Introduction to Modern Ai](https://github.com/Neo-TimeOut/Certificados/blob/main/Introduction_to_Modern_AI_certificate_rerparaujo-gmail-com_6f71aa9d-d082-449b-a550-c4f335f6075e.pdf)
 - [Cisco Operating Systems Basics](https://github.com/Neo-TimeOut/Certificados/blob/main/Operating_Systems_Basics_certificate_rerparaujo-gmail-com_eef168e6-b836-4fd1-93e9-a9ff95be6270.pdf)
-
-
-
 
 
 
